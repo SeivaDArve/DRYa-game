@@ -5,7 +5,7 @@
 clear
 figlet "Dota 2"
 
-v_list=${v_REPOS_CENTER}/Dota-2-guide/list-all-dota2-hero-names.txt
+v_list=${v_REPOS_CENTER}/DRYa-games/list-all-dota2-hero-names.txt
 
 echo "Random hero name"
 declare i=$(shuf -i 1-124 -n 1)
